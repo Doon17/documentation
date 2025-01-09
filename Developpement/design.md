@@ -5,7 +5,7 @@
 Nos produits utilisent le [DSFR](https://www.systeme-de-design.gouv.fr/) et nous nous sommes demandés quels portages
 seraient les plus pertinents.
 
-Pour cela, nous avons choisi différents critères : 
+Pour cela, nous avons choisi différents critères :
 
 - La page documentaire sur le site du DSFR, [ici]https://www.systeme-de-design.gouv.fr/communaute/portages-en-cours,
 - Les signes de vie du projet (contributions, popularité),
@@ -19,9 +19,9 @@ React est utilisé dans nos développements et nous avons étudié deux biblioth
 _[codegouv.fr/react-dsfr](https://github.com/codegouvfr/react-dsfr)_ et
 _[dataesr/react-dsfr](https://github.com/dataesr/react-dsfr)_.
 
-Des deux bibliothèques, nous avons trouvé que _[codegouv.fr/react-dsfr](https://github.com/codegouvfr/react-dsfr)_
-était celle qui devait être privilégiée dans nos développements en raison de ses contributions fréquentes.
-Le site officiel est disponible sur [ce lien](https://react-dsfr.codegouv.studio/).
+Des deux bibliothèques, nous avons trouvé que _[codegouv.fr/react-dsfr](https://github.com/codegouvfr/react-dsfr)_ était
+celle qui devait être privilégiée dans nos développements en raison de ses contributions fréquentes. Le site officiel
+est disponible sur [ce lien](https://react-dsfr.codegouv.studio/).
 
 Une présentation/tutoriel de la bibliothèque a été faîte en décembre 2022, et la vidéo est disponible
 [ici](https://code.gouv.fr/fr/bluehats/react-dsfr/).
